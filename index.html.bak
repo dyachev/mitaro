@@ -6,7 +6,12 @@
 	<body>
 		<h1>Hello, i'm Mitaro</h1>
 		<h4>Have a Fun</h4>
+<<<<<<< HEAD
 		<p>test merge</p>
+		<p>This is my git  test page</p>
+=======
+		<p>test  merge</p>
 		<p>This is my git test page</p>
+>>>>>>> 7016ab7157080d3475a8fa05a1dd38f630ddc01a
 	</body>
 </html>
